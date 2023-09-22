@@ -1,0 +1,104 @@
+\t (00:00:02) allegro 17.4 S035 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Fri Sep 22 18:32:13 2023
+\t (00:00:02)         Host=DESKT-TJBCTFMLT User=Administrator Pid=2164 CPUs=2
+\t (00:00:02) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 116667
+\i (00:00:05) generaledit 
+\i (00:00:22) trl altium2pcb 
+\i (00:00:22) helpcmd C:/Users/ADMINI~1/AppData/Local/Temp/#Taaaaad02164.tmp 
+\i (00:00:24) setwindow form.trl_altium2pcb
+\i (00:00:24) FORM trl_altium2pcb pcb_ascii_browse  
+\i (00:00:26) fillin "USB-C-SMD_TYPE-C-6PIN-2MD-073.pcbdoc"
+   (00:00:26) Loading translators.cxt 
+   (00:00:26) Loading toolbox.cxt 
+   (00:00:26) Initializing toolbox...
+\i (00:00:27) FORM trl_altium2pcb run_translator  
+\t (00:00:27) Checking db records
+\t (00:00:27)     checking for orphans...
+\t (00:00:27)     Checked 100 percent
+   (00:00:27) Loading signal.cxt 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) trapsize 1218
+\i (00:00:27) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged unnamed
+\t (00:00:28) Checking db records
+\t (00:00:28)     checking for orphans...
+\t (00:00:28)     Checked 100 percent
+\i (00:00:28) trapsize 12181
+\t (00:00:28) Performing DRC...
+\t (00:00:28) Multithreaded DRC update (2 threads).
+\t (00:00:28) No DRC errors detected.
+\i (00:00:28) trapsize 12181
+\t (00:00:28) Checking db records
+\t (00:00:28)     checking for orphans...
+\t (00:00:28)     Checked 100 percent
+\t (00:00:29) Checking db records
+\t (00:00:29)     checking for orphans...
+\t (00:00:29)     Checked 100 percent
+   (00:00:29) Loading skillExt.cxt 
+\t (00:00:30) Checking db records
+\t (00:00:30)     checking for orphans...
+\t (00:00:30)     Checked 100 percent
+\t (00:00:30) Checking db records
+\t (00:00:30)     checking for orphans...
+\t (00:00:30)     Checked 100 percent
+\t (00:00:30) Checking db records
+\t (00:00:30)     checking for orphans...
+\t (00:00:30)     Checked 100 percent
+\w (00:00:30) Run batch DRC to correctly regenerate DRC errs.
+
+   (00:00:30) *WARNING* (axlDBCreateSymbol): Refdes not found - ""
+\e (00:00:30) ERROR(SPMHA1-161): Cannot open the design because of database problems. Run the dbdoctor command on the design and try to open again.
+\t (00:00:30) Checking db records
+\t (00:00:30)     checking for orphans...
+\t (00:00:30)     Checked 100 percent
+\w (00:00:30) Run batch DRC to correctly regenerate DRC errs.
+
+\t (00:00:30) Starting new design...
+\i (00:00:30) trapsize 90016
+\i (00:00:30) trapsize 90016
+\i (00:00:30) show element 
+\i (00:00:30) done 
+\i (00:00:30) trapsize 90016
+\t (00:00:30) Opening existing design...
+\i (00:00:31) trapsize 12181
+\i (00:00:31) trapsize 8899
+\t (00:00:31) Checking db records
+\t (00:00:31)     checking for orphans...
+\t (00:00:31)     Checked 100 percent
+\w (00:00:31) Run batch DRC to correctly regenerate DRC errs.
+
+\t (00:00:31) Checking db records
+\t (00:00:31)     checking for orphans...
+\t (00:00:31)     Checked 100 percent
+\w (00:00:31) Run batch DRC to correctly regenerate DRC errs.
+
+   (00:00:31) Info: Deleting 0 pad dangling clines.
+\i (00:00:31) trapsize 665
+\t (00:00:31) Checking db records
+\t (00:00:31)     checking for orphans...
+\t (00:00:31)     Checked 100 percent
+\w (00:00:31) Run batch DRC to correctly regenerate DRC errs.
+
+\t (00:00:32) Checking db records
+\t (00:00:32)     checking for orphans...
+\t (00:00:32)     Checked 100 percent
+\w (00:00:32) Run batch DRC to correctly regenerate DRC errs.
+
+\t (00:00:32) Checking db records
+\t (00:00:32)     checking for orphans...
+\t (00:00:32)     Checked 100 percent
+\w (00:00:32) Run batch DRC to correctly regenerate DRC errs.
+
+\i (00:00:35) setwindow form.trl_altium2pcb
+\i (00:00:35) FORM trl_altium2pcb cancel  
+\i (00:00:36) setwindow pcb
+\i (00:00:36) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:00:49) pick grid 3607.23 3410.53
+\t (00:00:49) last pick:  3607.00 3411.00
+\i (00:00:55) pick grid 3756.08 3398.57
+\t (00:00:55) last pick:  3756.00 3399.00
+\i (00:01:01) exit 
+\t (00:01:01)     Journal end - Fri Sep 22 18:33:12 2023

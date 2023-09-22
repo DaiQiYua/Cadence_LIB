@@ -1,0 +1,27 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : USB-C-SMD_TYPE-C-6PIN-2MD-073_Final.brd       )
+(    Software Version : 17.4S035                                      )
+(    Date/Time        : Fri Sep 22 18:33:27 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Regenerating DRC
+  Original DRC errors:   0
+  Updated DRC errors:    13
+  DRC elapsed time:      00:00:01
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+
+
+<<< Design Uprev Warnings >>>
+
+Fri Sep 22 18:33:27 2023				Page     1
+
+
+Performing DRC...
+DRC done; 13 errors detected.

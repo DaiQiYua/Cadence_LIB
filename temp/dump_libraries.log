@@ -1,0 +1,43 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 17.4S035                                      )
+(    Date/Time        : Fri Sep 22 18:34:33 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: Z:/Design/_My_Design/Cadence_LIB/temp/USB-C-SMD_TYPE-C-6PIN-2MD-073_Final.brd ***
+
+
+
+  *** Creating all device files (see create_devices.log) ***
+
+
+  *** Creating padstacks. ***
+
+  PTH_O472X709SLOT236X472S1 being dumped.
+
+  PTH_O472X787SLOT236X591S1 being dumped.
+
+  SMD_R118X433S1 being dumped.
+
+  SMD_R236X433S1 being dumped.
+
+
+  *** Creating package symbols (.dra and .psm) ***
+
+  usb-c-smd_type-c-6pin-2md-073 being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:                4
+Number of package symbols dumped:          1
+
+Total number of symbols dumped:            1
+*****************************************************
+
