@@ -1,0 +1,13 @@
+\t (00:00:01) allegro 17.4 S035 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Mon Sep 25 14:35:41 2023
+\t (00:00:01)         Host=DESKT-TJBCTFMLT User=Administrator Pid=5840 CPUs=2
+\t (00:00:01) CmdLine= allegro.exe -s Z:\Design\_My_Design\Cadence_LIB\FPM\fpmyi.scr
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 116667
+\i (00:00:04) replay 'Z:`\Design`\_My_Design`\Cadence_LIB`\FPM`\fpmyi.scr' 
+\i (00:00:04) skill '`'load "Z:`\`\Design`\`\_My_Design`\`\Cadence_LIB`\`\FPM`\`\fpm.il"`'' 
+\i (00:00:04) done 
+\e (00:00:04) No command active
+\t (00:00:04)     Journal end - Mon Sep 25 14:35:44 2023

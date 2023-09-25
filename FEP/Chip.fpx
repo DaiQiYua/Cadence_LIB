@@ -1,0 +1,9 @@
+FPX V2021 Component Libfile
+Package Type	Footprint Data	Footprint Name	Physical Description	Case Code	Manufacturer	Part Number	Logical Description	Mounting Type	Datasheet	Part Status	Footprint Date	Comments
+6	cc="440002 9 0 2" cd="2121 +0.26 0.57,0.63 0.27,0.33 0.05,0.15" fd="1D 0.25 0.35 0.35 0.4"	R0201	Resistor, Chip; 0.60 mm L X 0.30 mm W X 0.26 mm H body					Surface Mount		Active	9/25/2023 4:29:00 PM	
+6	cc="440002 9 0 2" cd="2121 +0.4 0.9,1.1 0.45,0.55 0.1,0.3" fd="1D 0.5 0.45 0.45 0.5"	R0402	Resistor, Chip; 1.00 mm L X 0.50 mm W X 0.40 mm H body					Surface Mount		Active	9/25/2023 4:39:00 PM	
+6	cc="440002 9 0 2" cd="2121 +0.35 1.5,1.7 0.7,0.9 0.1,0.5" fd="1D 0.9 0.65 0.65 0.8"	R0603	Resistor, Chip; 1.60 mm L X 0.80 mm W X 0.35 mm H body					Surface Mount		Active	9/25/2023 4:46:00 PM	
+6	cc="440002 9 0 2" cd="2121 +0.55 2.95,3.25 1.45,1.65 0.25,0.65" fd="1D 2 1.1 1.1 1.6"	R1206	Resistor, Chip; 3.10 mm L X 1.55 mm W X 0.55 mm H body					Surface Mount		Active	9/25/2023 4:49:00 PM	
+6	cc="440002 0 0 2" cd="2121 +0.5 0.95,1.05 0.45,0.55 0.15,0.35"	C0402	Capacitor, Chip; 1.00 mm L X 0.50 mm W X 0.50 mm H body					Surface Mount		Active	9/25/2023 4:55:00 PM	
+6	cc="440002 0 0 2" cd="2121 +0.8 1.45,1.75 0.65,0.95 0.2,0.6"	C0603	Capacitor, Chip; 1.60 mm L X 0.80 mm W X 0.80 mm H body					Surface Mount		Active	9/25/2023 4:56:00 PM	
+6	cc="440002 0 0 2" cd="2121 +0.85 1.9,2.1 1.15,1.35 0.25,0.75"	C0805	Capacitor, Chip; 2.00 mm L X 1.25 mm W X 0.85 mm H body					Surface Mount		Active	9/25/2023 4:57:00 PM	

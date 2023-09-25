@@ -6,6 +6,8 @@ del /s *.jrl
 del /s *.jrl*
 del /s *.log
 del /s *.log*
+del /s *.tag
+del /s *.rpt
 
 
 rd /s /q %cd%\PCB_lib\DRA\stepFacetFiles4Map
