@@ -7,3 +7,11 @@ Package Type	Footprint Data	Footprint Name	Physical Description	Case Code	Manufa
 6	cc="440002 0 0 2" cd="2121 +0.5 0.95,1.05 0.45,0.55 0.15,0.35"	C0402	Capacitor, Chip; 1.00 mm L X 0.50 mm W X 0.50 mm H body					Surface Mount		Active	9/25/2023 4:55:00 PM	
 6	cc="440002 0 0 2" cd="2121 +0.8 1.45,1.75 0.65,0.95 0.2,0.6"	C0603	Capacitor, Chip; 1.60 mm L X 0.80 mm W X 0.80 mm H body					Surface Mount		Active	9/25/2023 4:56:00 PM	
 6	cc="440002 0 0 2" cd="2121 +0.85 1.9,2.1 1.15,1.35 0.25,0.75"	C0805	Capacitor, Chip; 2.00 mm L X 1.25 mm W X 0.85 mm H body					Surface Mount		Active	9/25/2023 4:57:00 PM	
+6	cc="4C0002 4 0 1,804040 0" cd="2121 +1.15 1.45,1.85 0.65,1.05 0.15,0.15"	F0603	Fuse, Chip; 1.65 mm L X 0.85 mm W X 1.15 mm H body					Surface Mount		Active	9/27/2023 11:12:00 AM	
+6	cc="4C0002 4 0 1,804040 0" cd="2121 +1.2 2,2 1.2,1.5 0.2,0.2"	F0805	Fuse, Chip; 2.00 mm L X 1.35 mm W X 1.20 mm H body					Surface Mount		Active	9/27/2023 11:13:00 AM	
+6	cc="4C0002 4 0 1,804040 0" cd="2121 +1 3,3.6 1.5,1.9 0.15,0.2"	F1206	Fuse, Chip; 3.30 mm L X 1.70 mm W X 1.00 mm H body					Surface Mount		Active	9/27/2023 11:14:00 AM	
+6	cc="4C0002 16 0 1,FF0080 0" cd="2121 +0.65 0.85,1.15 0.35,0.65 0.15,0.35"	B0402	Ferrite Bead, Chip; 1.00 mm L X 0.50 mm W X 0.65 mm H body					Surface Mount		Active	9/27/2023 11:18:00 AM	
+6	cc="440002 6 0 0" cd="2121 +1.05 1.8,2.2 1.05,1.45 0.2,0.8" fd="1D 1 1.05 1.05 1.45"	L201208	Inductor, Chip; 2.00 mm L X 1.25 mm W X 1.05 mm H body					Surface Mount		Active	9/27/2023 11:25:00 AM	
+6	cc="440002 6 0 0" cd="2121 +1.2 2.3,2.7 1.8,2.2 0.3,0.9" fd="1D 1.2 0.8 0.8 2.3"	L252012	Inductor, Chip; 2.50 mm L X 2.00 mm W X 1.20 mm H body					Surface Mount		Active	9/27/2023 11:37:00 AM	
+6	cc="4C0002 12 0 1,FFFF00 0" cd="2121 +0.6 2,2.1 1.15,1.25 0.525,0.525" fd="1D 0.8 0.7 0.7 1.4" fs="277,2,9,0.3,0.15,-1.5,0.6,1"	SMD2012-2P	Crystal, Chip; 2.05 mm L X 1.20 mm W X 0.60 mm H body					Surface Mount		Active	9/27/2023 1:17:00 PM	
+18	cc="440000 0 0" cd="361 +0.5 1.9,2.1 0.6,0.8 1.5,1.7 0.4,0.6" fd="F 0.3 0.5 0.8 0.9"	SMD2016-4P	Oscillator, Corner Concave; 2.00 mm L X 1.60 mm W X 0.50 mm H body					Surface Mount		Active	9/27/2023 1:19:00 PM	

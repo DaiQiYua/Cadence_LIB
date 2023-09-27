@@ -1,0 +1,5 @@
+FPX V2021 Component Libfile
+Package Type	Footprint Data	Footprint Name	Physical Description	Case Code	Manufacturer	Part Number	Logical Description	Mounting Type	Datasheet	Part Status	Footprint Date	Comments
+17	cc="440002 6 0 0" cd="2165 +2 1.2,1.8 4.35,4.85 4.25,4.75 3.75,4.45 0.46,1.06" fd="3D 2.44 1.26 1.26 2.5 2.5"	CKST0402	Inductor, Molded Body; 4.50 mm L X 4.10 mm W X 2.00 mm H body					Surface Mount		Active	9/27/2023 11:43:00 AM	
+17	cc="440002 6 0 0" cd="2165 +3 2.8,3.2 7,7.4 6.85,7.25 6.4,6.8 1.3,1.9" fd="3D 3.7 2.35 2.35 3.5 3.5"	CKST0603	Inductor, Molded Body; 7.05 mm L X 6.60 mm W X 3.00 mm H body					Surface Mount		Active	9/27/2023 11:45:00 AM	
+17	cc="440002 6 0 0" cd="2165 +4 3,4 11.2,11.6 11.05,11.45 9.8,10.4 2,3" fd="3D 6 3.5 3.5 4 4"	CKST1004	Inductor, Molded Body; 11.25 mm L X 10.10 mm W X 4.00 mm H body					Surface Mount		Active	9/27/2023 11:48:00 AM	

@@ -1,0 +1,42 @@
+source $TELENV
+
+
+alias   F3      property edit
+alias   F2      move
+alias   F5      show element
+alias   F6      show measure
+alias   F7      vertex 
+alias   F8      cmgr 
+alias   F9      swap functions   
+alias   F11     swap pins
+alias   CF10    rats net
+alias   CF11    unrats net
+alias   F12     change
+alias   Del     delete
+alias   Esc     Cancel
+
+
+
+funckey ' '     iangle 90           #按空格以90度旋转选中的物�?
+funckey ~R      iangle 45           #按ctrl+R�?5度旋转选中的物�?
+funckey +       subclass -+
+funckey -       subclass --
+funckey v       spin
+funckey h       assign color
+funckey j       dehilight
+funckey q	    Oops
+funckey w       add connect
+funckey m       mirror
+funckey t       toggle
+
+
+ 
+### User Preferences section
+### This section is computer generated.
+### Please do not modify to the end of the file.
+### Place your hand edits above this section.
+###
+set parampath = $parampath Z:/LIB/PCB_LIB_DBdoctor/Package
+set psmpath = $psmpath Z:/LIB/PCB_LIB_DBdoctor/Package Z:/LIB/PCB_LIB_DBdoctor/Flash Z:/LIB/PCB_LIB_DBdoctor/pad Z:/LIB/PCB_LIB/Package Z:/LIB/PCB_LIB/pad Z:/LIB/PCB_LIB/Flash Z:/Design/VT_new/Flyback/PMEG045V150EPDZ
+set padpath = $padpath Z:/LIB/PCB_LIB_DBdoctor/pad Z:/LIB/PCB_LIB/pad Z:/LIB/PCB_LIB/Flash Z:/LIB/PCB_LIB_DBdoctor/Flash Z:/Design/VT_new/Flyback/PMEG045V150EPDZ
+set devpath = $devpath Z:/LIB/PCB_LIB_DBdoctor/Package
