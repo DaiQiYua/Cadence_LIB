@@ -2,6 +2,7 @@
 
 del /s *.opj
 del /s *.OBK
+del /s *.OLBlck
 del /s *.jrl
 del /s *.jrl*
 del /s *.log
