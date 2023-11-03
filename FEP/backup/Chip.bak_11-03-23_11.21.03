@@ -15,4 +15,3 @@ Package Type	Footprint Data	Footprint Name	Physical Description	Case Code	Manufa
 6	cc="440002 6 0 0" cd="2121 +1.2 2.3,2.7 1.8,2.2 0.3,0.9" fd="1D 1.2 0.8 0.8 2.3"	L252012	Inductor, Chip; 2.50 mm L X 2.00 mm W X 1.20 mm H body					Surface Mount		Active	9/27/2023 11:37:00 AM	
 6	cc="4C0002 12 0 1,FFFF00 0" cd="2121 +0.6 2,2.1 1.15,1.25 0.525,0.525" fd="1D 0.8 0.7 0.7 1.4" fs="277,2,9,0.3,0.15,-1.5,0.6,1"	SMD2012-2P	Crystal, Chip; 2.05 mm L X 1.20 mm W X 0.60 mm H body					Surface Mount		Active	9/27/2023 1:17:00 PM	
 18	cc="440000 0 0" cd="361 +0.5 1.9,2.1 0.6,0.8 1.5,1.7 0.4,0.6" fd="F 0.3 0.5 0.8 0.9"	SMD2016-4P	Oscillator, Corner Concave; 2.00 mm L X 1.60 mm W X 0.50 mm H body					Surface Mount		Active	9/27/2023 1:19:00 PM	
-6	cc="440002 20 0 0" cd="2121 +1 5.3,5.7 1.9,2.1 0.4,0.6"	CA-C03	Antenna, Chip; 5.50 mm L X 2.00 mm W X 1.00 mm H body					Surface Mount		Active	11/3/2023 11:20:00 AM	
