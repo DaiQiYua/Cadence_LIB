@@ -2,7 +2,7 @@
 
 del /s *.opj
 del /s *.OBK
-
+del /s *.OLBlck
 
 rd /s /q *PSpiceFiles
 rd /s /q GPUCache
